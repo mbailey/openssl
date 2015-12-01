@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mike@bailey.net.au"]
 
   spec.summary       = %q{Testing to see whether it's possible to replace ruby core libs with rubygems}
-  spec.description   = %q{It should not be possible to replace Ruby core lib 'openssl' with something I whipped up in a couple of minutes}
+  spec.description   = %q{Don't install this!}
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
